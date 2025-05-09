@@ -1,0 +1,26 @@
+[
+    {
+        "asset": "demo",
+        "description": "demodemodemo",
+        "photo": "uploads\/rolex.jpg",
+        "certificate": "uploads\/rolex.jpg",
+        "ai_estimate": 46546,
+        "status": "Awaiting Appraiser Review"
+    },
+    {
+        "asset": "demo",
+        "description": "demodemodemo",
+        "photo": "uploads\/rolex.jpg",
+        "certificate": "uploads\/rolex.jpg",
+        "ai_estimate": 42638,
+        "status": "Awaiting Appraiser Review"
+    },
+    {
+        "asset": "demo",
+        "description": "demodemo",
+        "photo": "uploads\/images.png",
+        "certificate": "uploads\/images.png",
+        "ai_estimate": 49624,
+        "status": "Awaiting Appraiser Review"
+    }
+]
